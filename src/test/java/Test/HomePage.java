@@ -17,7 +17,7 @@ public class HomePage {
   @Test
   public void to_print_homeoutput() {
 	  
-	  System.out.println("Test");
+	  System.out.println("Deva");
 	  
 	  
   }
